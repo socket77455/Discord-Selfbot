@@ -1,0 +1,13 @@
+{
+  "name": "Ultra-Host",
+  "description": "Official Discord bot of ultra-h.com",
+  "version": "0.0.1",
+  "main": "selfbot.js",
+  "scripts": {
+    "start": "node selfbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
