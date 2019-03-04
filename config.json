@@ -1,6 +1,6 @@
 {
-    "prefix": "INSERT PREFIX HERE",
-    "token": "INSERT TOKEN HERE",
-    "userid": "INSERT USER ID HERE",
+    "prefix": "@",
+    "token": "hidden",
+    "userid": "hidden",
     "translate": "en"
 }
